@@ -6,7 +6,7 @@
 python3 hello.py
 ```
 
-It prints a greeting, then today's date as `YYYY-MM-DD`. For example:
+It prints a greeting, then the local date as `YYYY-MM-DD`. For example:
 
 ```
 Hello, world!
